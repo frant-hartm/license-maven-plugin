@@ -504,6 +504,7 @@
           <excludes>
             <exclude>src/main/resources/META-INF/licenses/**</exclude>
             <exclude>src/test/resources/newRepository/**</exclude>
+            <exclude>.mvn/**</exclude>
           </excludes>
         </configuration>
       </plugin>
